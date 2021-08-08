@@ -1,0 +1,2 @@
+build:		g++ filename.cpp -o filename -lglut -lGLU -lGL -lSOIL
+execute:	./filename
